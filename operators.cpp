@@ -1,3 +1,6 @@
+// Divyansh Rastogi
+// 23070123048
+
 #include <iostream>
 using namespace std;
 
@@ -18,3 +21,12 @@ int main() {
 
     return 0;
 }
+/* output :-
+enter the number:54
+61
+
+ans is :63
+ans is :11
+ans is :52
+ans is :108
+ans is :27*/
